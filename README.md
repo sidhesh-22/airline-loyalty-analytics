@@ -15,7 +15,6 @@ An end-to-end customer analytics solution for a simulated airline loyalty progra
 - [Results & Business Recommendations](#-results--business-recommendations)
 - [Recommendations](#recommendations)
 - [Next Steps / Challenges / Limitations](#-next-steps--challenges--limitations)
-- [Project Architecture](#-project-architecture)
 - [Technology Stack](#-technology-stack)
 
 ---
